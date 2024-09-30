@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <Properties>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="f5" green="f5" red="f5" type="rgb"/>
+    </Property>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="jLabel12" min="-2" pref="667" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jLabel5" min="-2" pref="667" max="-2" attributes="0"/>
+                      <Component id="jLabel4" min="-2" pref="667" max="-2" attributes="0"/>
+                      <Component id="jLabel6" min="-2" pref="667" max="-2" attributes="0"/>
+                      <Component id="jLabel7" min="-2" pref="667" max="-2" attributes="0"/>
+                      <Component id="jLabel8" min="-2" pref="667" max="-2" attributes="0"/>
+                      <Component id="jLabel9" min="-2" pref="667" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="jLabel13" min="-2" pref="667" max="-2" attributes="0"/>
+                  <Component id="jLabel14" min="-2" pref="667" max="-2" attributes="0"/>
+                  <Component id="jLabel15" min="-2" pref="667" max="-2" attributes="0"/>
+                  <Component id="jLabel16" min="-2" pref="667" max="-2" attributes="0"/>
+                  <Component id="jLabel17" min="-2" pref="667" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="92" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel1" min="-2" pref="270" max="-2" attributes="0"/>
+                  <Component id="jLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel3" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel10" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel11" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel18" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="31" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel4" min="-2" pref="25" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+              <Component id="jLabel5" min="-2" pref="25" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+              <Component id="jLabel6" min="-2" pref="25" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+              <Component id="jLabel7" min="-2" pref="25" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+              <Component id="jLabel8" min="-2" pref="25" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+              <Component id="jLabel9" min="-2" pref="25" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jLabel11" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jLabel12" min="-2" pref="25" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+              <Component id="jLabel13" min="-2" pref="25" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+              <Component id="jLabel14" min="-2" pref="25" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+              <Component id="jLabel15" min="-2" pref="25" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+              <Component id="jLabel16" min="-2" pref="25" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+              <Component id="jLabel17" min="-2" pref="25" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jLabel18" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="135" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="24" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#x110;i&#x1ec1;u kho&#x1ea3;n &amp; b&#x1ea3;o m&#x1ead;t"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#x110;i&#x1ec1;u Kho&#x1ea3;n S&#x1eed; D&#x1ee5;ng"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="B&#x1eb1;ng vi&#x1ec7;c s&#x1eed; d&#x1ee5;ng s&#x1ea3;n ph&#x1ea9;m ho&#x1eb7;c d&#x1ecb;ch v&#x1ee5; c&#x1ee7;a ch&#xfa;ng t&#xf4;i, b&#x1ea1;n &#x111;&#x1ed3;ng &#xfd; v&#x1edb;i c&#xe1;c &#x111;i&#x1ec1;u kho&#x1ea3;n v&#xe0; &#x111;i&#x1ec1;u ki&#x1ec7;n sau:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="B&#x1ea1;n ph&#x1ea3;i s&#x1eed; d&#x1ee5;ng s&#x1ea3;n ph&#x1ea9;m ho&#x1eb7;c d&#x1ecb;ch v&#x1ee5; c&#x1ee7;a ch&#xfa;ng t&#xf4;i theo m&#x1ee5;c &#x111;&#xed;ch &#x111;&#x1b0;&#x1ee3;c ch&#x1ea5;p nh&#x1ead;n"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="v&#xe0; kh&#xf4;ng vi ph&#x1ea1;m b&#x1ea5;t k&#x1ef3; lu&#x1ead;t ho&#x1eb7;c quy &#x111;&#x1ecb;nh n&#xe0;o."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="B&#x1ea1;n ch&#x1ecb;u tr&#xe1;ch nhi&#x1ec7;m v&#x1ec1; m&#x1ecd;i ho&#x1ea1;t &#x111;&#x1ed9;ng tr&#xea;n t&#xe0;i kho&#x1ea3;n c&#x1ee7;a m&#xec;nh v&#xe0; &#x111;&#x1ea3;m b&#x1ea3;o b&#x1ea3;o m&#x1ead;t"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="th&#xf4;ng tin &#x111;&#x103;ng nh&#x1ead;p."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel8">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Ch&#xfa;ng t&#xf4;i c&#xf3; quy&#x1ec1;n ch&#x1ea5;m d&#x1ee9;t ho&#x1eb7;c t&#x1ea1;m ng&#x1eeb;ng cung c&#x1ea5;p d&#x1ecb;ch v&#x1ee5; n&#x1ebf;u b&#x1ea1;n vi ph&#x1ea1;m c&#xe1;c"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel9">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#x111;i&#x1ec1;u kho&#x1ea3;n n&#xe0;y."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel10">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Ch&#xed;nh S&#xe1;ch B&#x1ea3;o M&#x1ead;t"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel11">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Ch&#xfa;ng t&#xf4;i coi tr&#x1ecd;ng vi&#x1ec7;c b&#x1ea3;o v&#x1ec7; th&#xf4;ng tin c&#xe1; nh&#xe2;n c&#x1ee7;a b&#x1ea1;n. D&#x1b0;&#x1edb;i &#x111;&#xe2;y l&#xe0; c&#xe1;c cam k&#x1ebf;t c&#x1ee7;a ch&#xfa;ng t&#xf4;i v&#x1ec1; b&#x1ea3;o m&#x1ead;t:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel12">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Ch&#xfa;ng t&#xf4;i s&#x1ebd; thu th&#x1ead;p v&#xe0; s&#x1eed; d&#x1ee5;ng th&#xf4;ng tin c&#xe1; nh&#xe2;n c&#x1ee7;a b&#x1ea1;n ch&#x1ec9; khi c&#x1ea7;n thi&#x1ebf;t &#x111;&#x1ec3; cung c&#x1ea5;p"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel13">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="v&#xe0; c&#x1ea3;i thi&#x1ec7;n d&#x1ecb;ch v&#x1ee5;."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel14">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Ch&#xfa;ng t&#xf4;i s&#x1ebd; kh&#xf4;ng chia s&#x1ebb; ho&#x1eb7;c b&#xe1;n th&#xf4;ng tin c&#xe1; nh&#xe2;n c&#x1ee7;a b&#x1ea1;n cho b&#xea;n th&#x1ee9; ba, tr&#x1eeb; khi"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel15">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="c&#xf3; s&#x1ef1; &#x111;&#x1ed3;ng &#xfd; c&#x1ee7;a b&#x1ea1;n ho&#x1eb7;c theo y&#xea;u c&#x1ea7;u c&#x1ee7;a ph&#xe1;p lu&#x1ead;t."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel16">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Ch&#xfa;ng t&#xf4;i s&#x1ebd; &#xe1;p d&#x1ee5;ng c&#xe1;c bi&#x1ec7;n ph&#xe1;p b&#x1ea3;o m&#x1ead;t &#x111;&#x1ec3; b&#x1ea3;o v&#x1ec7; th&#xf4;ng tin c&#xe1; nh&#xe2;n c&#x1ee7;a b&#x1ea1;n kh&#x1ecf;i"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel17">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="truy c&#x1ead;p tr&#xe1;i ph&#xe9;p, s&#x1eed; d&#x1ee5;ng tr&#xe1;i ph&#xe9;p ho&#x1eb7;c ti&#x1ebf;t l&#x1ed9; tr&#xe1;i ph&#xe9;p."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel18">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="N&#x1ebf;u b&#x1ea1;n c&#xf3; b&#x1ea5;t k&#x1ef3; c&#xe2;u h&#x1ecf;i ho&#x1eb7;c lo ng&#x1ea1;i n&#xe0;o v&#x1ec1; c&#xe1;c &#x111;i&#x1ec1;u kho&#x1ea3;n ho&#x1eb7;c ch&#xed;nh s&#xe1;ch b&#x1ea3;o m&#x1ead;t c&#x1ee7;a ch&#xfa;ng t&#xf4;i, vui l&#xf2;ng li&#xea;n h&#x1ec7; v&#x1edb;i ch&#xfa;ng t&#xf4;i."/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
